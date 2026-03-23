@@ -21,7 +21,7 @@ The trend undergoes a notable reversal after the 2.5-month mark. By month three,
 
 This suggests that for many companies, the exclusion is a temporary liquidity shock rather than a permanent loss of value. Once the forced selling ends, "value hunters" step in, recognizing that the stock has been oversold. The market begins to price the company based on its actual earnings and dividends again, rather than its eligibility for a specific trading link.
 
-![Event Study Plot](event_study_plot_Chinese.png)
+![Event Study Plot](event_study_plot.png)
 
 The Verdict: Fallen Angel or Value Trap?
 While every stock is different, the aggregate data leans heavily toward the Fallen Angel hypothesis.
